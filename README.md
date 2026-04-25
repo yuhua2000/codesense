@@ -1,4 +1,4 @@
-"# CodeSense - AI驱动的智能代码仓库分析工具
+# CodeSense - AI驱动的智能代码仓库分析工具
 
 [![Go](https://img.shields.io/badge/Go-1.26+-00ADD8?style=flat-square&logo=go)](https://golang.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
