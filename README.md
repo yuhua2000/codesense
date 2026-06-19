@@ -130,7 +130,7 @@ AI代理在执行过程中可以执行以下命令：
 • 关键方法和入口点
 
 # 功能清单
-• 功能模块（3-6个最重要的模块）
+• 功能模块
 • 模块职责和关系
 • 关键实现方法
 
@@ -142,7 +142,7 @@ AI代理在执行过程中可以执行以下命令：
 
 ### 📋 实际示例报告
 
-查看 [info.md](info.md) 查看CodeSense工具分析自身代码库生成的实际报告，展示了工具的自我分析能力。
+查看 [report.md](./examples/report.md) CodeSense工具分析[gin-vue-admin/server](https://github.com/flipped-aurora/gin-vue-admin/tree/main/server)生成的实际报告。
 
 ## 🔧 配置说明
 
