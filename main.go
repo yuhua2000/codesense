@@ -23,7 +23,7 @@ func main() {
 	apiKey := flag.String("key", "", "OpenAI API密钥")
 	baseURL := flag.String("url", "", "API基础URL")
 	language := flag.String("lang", "zh", "输出语言 (zh/en)")
-	outputFile := flag.String("output", "info.md", "输出报告文件路径 (可选)")
+	outputFile := flag.String("output", "report.md", "输出报告文件路径 (可选)")
 
 	flag.Parse()
 
